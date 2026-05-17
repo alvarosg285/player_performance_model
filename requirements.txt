@@ -2,3 +2,6 @@ pandas
 numpy
 pymc
 arviz
+matplotlib
+seaborn
+ipywidgets
